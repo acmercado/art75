@@ -141,6 +141,24 @@ p {
 	height: 20px;
 }
 
+.home {
+	padding: 10px;
+}
+
+.welcome {
+	position: fixed;
+	top: 40vh;
+	right: 20px;
+	bottom: 40vh;
+	margin: 0;
+	padding: 0;
+	width: 50%;
+}
+
+.welcome img {
+	width: 100%;
+}
+
 .projects {
 	padding: 3vh 3vw;
 	right: 6vw;
